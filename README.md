@@ -14,3 +14,7 @@ Welcome to the News Website project! This project showcases a modern news websit
 
 Check out the live demo of the project here:
 
+
+
+https://github.com/user-attachments/assets/0c281031-ab95-484c-b620-4c0882042df1
+
